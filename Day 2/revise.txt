@@ -1,0 +1,28 @@
+Variables: like godam(storage)
+
+Rules of Variables:
+  starts only with letters, Underscore.
+
+data types:
+1) int : (0-9)
+2) float : (0.1, 9.9)
+3) char : (A-Z), (a-z)
+4) double: 
+
+Constant:
+for constant values.
+
+Escape Character:
+charater needed but it has no any special meaning or cannot type.
+eg:
+\n - newline
+\t - tab
+\b - backspace
+\\ - blackslash
+\f - form feed
+\" - quotation
+\r - return
+
+
+
+

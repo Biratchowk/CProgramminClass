@@ -1,0 +1,24 @@
+Function:
+Function is a block of code that perform certain task.
+
+Types:
+User define function.
+Standard Library Function. scanf, printf,  sqrt
+
+
+How to make own function.
+
+void printName(){
+printf("Hello");
+}
+
+Advantage of user define function
+1. Program is easy to understand and maintain.
+2. Code reuse.
+3. Large code can be divided into small modules.
+
+Types:
+No Parameter and No Return Type
+Parameter and No Return Type
+No Parameter and Return Type
+Parameter and Return Type

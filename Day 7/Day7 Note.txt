@@ -1,0 +1,12 @@
+Switch Case
+It is like if condition. If we have many conditions, switch case will be best.
+
+Syntax: 
+switch(case){
+case 1:
+statements;
+case 2:
+statements;
+default:
+statements;
+}

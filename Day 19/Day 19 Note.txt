@@ -1,0 +1,12 @@
+File Delete
+=> use remove("filename"). This will return 0 if file is deleted
+successfully.
+
+
+Pointer
+It is special variable used to store address of other variables.
+
+For e.g.
+int *p1;
+int *p2;
+

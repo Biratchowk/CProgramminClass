@@ -1,0 +1,31 @@
+File Handeling
+- We can create file, edit file, delete file using c programming. 
+
+Modes:
+r - read mode
+w - write mode
+a - append mode
+
+
+Read Mode
+Whats inside abc.txt
+
+Write Mode:
+w- create a file
+[If there is already file, it will delete all content and create a new file]
+
+Append Mode
+- Update new content to existing file.
+
+File .. Why Needed?
+- When program is terminited, the entire data is lost. Storing in a file can save our data for long time.
+
+Types
+1. Text File
+2. Binary File
+
+1. Text File
+e.g. .txt
+2. Binary File
+e.g. .bin
+ 

@@ -1,0 +1,34 @@
+Types of Loop
+-for loop
+-while loop
+-do while loop
+
+while loop
+
+while(condition){
+// statements
+}
+
+E.g 
+
+int i =1;
+while(i<=100){
+printf("%d",i);
+i++;
+}
+
+
+
+do while loop
+
+do{
+// statements
+
+}while(condition);
+
+
+1. Break and Continue
+
+break: Close entire loop
+continue: Bypass item from loop
+

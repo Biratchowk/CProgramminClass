@@ -1,0 +1,1 @@
+- WAP in Java that the number is odd or even using function.

@@ -1,0 +1,29 @@
+Taking Input From User
+scanf is used to take input from user.
+
+For e.g.
+int num1;
+scanf("%d",&num1);
+
+
+
+Operators:
++ => Add
+- => Subtraction
+* => Multiply
+/ => Divide
+% => Remainder after vision
+= => Assignement Operator
++= => a = a+b
+-= => a = a-b
+*= => a = a *b
+
+
+Others
+== => Tulana Garna
+>  => Greater than
+<  => Smaller than
+!= => Not Equal to
+&& => And
+|| => Or
+!  => Not

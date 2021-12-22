@@ -1,0 +1,31 @@
+Flow Control
+1. if..else
+2. switch case
+3. looping
+4. goto.
+
+
+1. if 
+Syntax:
+if(condition){
+// true statements
+}
+
+1.1 if else
+Syntax:
+if(condition){
+// true statements
+}else{
+// false statements
+}
+
+int age = 18;
+
+if(age  > 18){
+printf("You are voter");
+}else{
+printf("You are voter");
+}
+
+
+if...esle if... else

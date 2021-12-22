@@ -1,0 +1,16 @@
+String :
+We can store multiple characters in string.
+
+char name[10] = "Nabin";
+
+Some String Functions
+strlen - To find length of string.
+strcat - To join two strings.
+strcmp - To compare string.
+strlwr - Lowercase
+strupr - Uppercase
+strrev - Reverse String.
+strcpy - Copy
+
+
+

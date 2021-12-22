@@ -1,0 +1,6 @@
+More on Function
+
+Function: Block of statement that perform certain task.
+
+Types:
+No Parameter and No Return Type

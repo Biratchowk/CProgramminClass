@@ -1,0 +1,17 @@
+Programming:
+It works on the basis of instruction given by user.
+E.g: C, C++, Java, PythonC Programming:
+It is general purpose powerful programming language, it is fast and used to create software, operating system.
+
+Install
+=> Dev C++
+=> Windows OS / Linux  OS / MAC
+
+Hello World Program in C.
+
+#include <stdio.h>
+int main(){
+printf("Hello World");
+return 0;
+
+}

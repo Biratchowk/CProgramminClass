@@ -1,0 +1,15 @@
+C Structure
+- It is collection of variables under same name.
+
+Syntax:
+struct structureName{
+datatype 1;
+datatype 2;
+...
+}
+
+struct Person{
+char name[100];
+int age;
+float height;
+};

@@ -1,0 +1,30 @@
+Variables
+In computer programming a variable is a container that store data.
+
+int num1 = 10;
+
+Rules:
+Only start with letters, underscore.
+First character should not be number.
+
+Data Types:
+int : It holds numeric value without decimal point.
+float: It holds numeric value with decimal point.
+char: It holds character. [A-Z, a-z, ]
+double: bigger 
+
+Constant:
+If you want to define a value that cannot be changed, you can const keyword.
+const float PI = 3.14;
+
+Escape Character:
+Somethimes we need to use character that cannot be typed or has special meaning. 
+E.g
+\n - New Line
+\t - Tab
+\b - Backspace
+\\ - Backslash
+\" - Quotation
+\f - Form Feed
+\r - Return
+

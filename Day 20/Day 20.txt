@@ -1,0 +1,4 @@
+goto:
+It transfer control of the program to specific label.
+
+E.g

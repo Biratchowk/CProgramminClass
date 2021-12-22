@@ -1,0 +1,13 @@
+Looping : Repeating something
+
+1. For Loop
+for(init; condition; inc/dec){
+statements;
+}
+
+To print 1 to 100
+int i;
+for(i=1; i<100; i++){
+printf("%d",i);
+}
+

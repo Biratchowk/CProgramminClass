@@ -1,0 +1,6 @@
+Structure: It holds different variables under same name.
+Array: It store multiple of same type.
+
+Array of Structure
+It holds multiple structures on same variables.
+

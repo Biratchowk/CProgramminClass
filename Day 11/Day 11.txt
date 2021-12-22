@@ -1,0 +1,11 @@
+Array
+In C Programming, Array holds multiple value for same data types.
+
+Syntax: 
+data_type array_name[array_size];  
+
+int prices[5]
+
+Advantage:
+=> Code Optimization
+=> Sort
